@@ -36,6 +36,14 @@ Cài môi trường  →  Code local  →  Container hóa  →  Backend/DB/Auth 
 | [google-oauth.md](docs/02-services/google-oauth.md) | Google Client ID / "Đăng nhập bằng Google" |
 | [github.md](docs/02-services/github.md) | Repo, SSH key, secrets, Pages (không bật CI tự động) |
 
+### 03 – Nâng cao
+| Tài liệu | Nội dung |
+|---|---|
+| [secrets-management.md](docs/03-advanced/secrets-management.md) | `.env` → secret manager → Vault/OpenBao, quét secret |
+| [domain-vn.md](docs/03-advanced/domain-vn.md) | Mua domain, đăng ký `.vn`, DNS, email theo domain |
+| [mobile-release.md](docs/03-advanced/mobile-release.md) | Expo/EAS, Google Play, App Store, chi phí tài khoản |
+| [go-live-checklist.md](docs/03-advanced/go-live-checklist.md) | Checklist bảo mật, vận hành, pháp lý trước khi public |
+
 ## Quy ước chung
 
 - Mọi lệnh có phần **Windows (PowerShell)** và **macOS (zsh)** riêng.
