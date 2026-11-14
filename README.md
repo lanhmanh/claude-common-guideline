@@ -44,6 +44,12 @@ Cài môi trường  →  Code local  →  Container hóa  →  Backend/DB/Auth 
 | [mobile-release.md](docs/03-advanced/mobile-release.md) | Expo/EAS, Google Play, App Store, chi phí tài khoản |
 | [go-live-checklist.md](docs/03-advanced/go-live-checklist.md) | Checklist bảo mật, vận hành, pháp lý trước khi public |
 
+### 04 – CI/CD
+| Tài liệu | Nội dung |
+|---|---|
+| [cicd-basics.md](docs/04-cicd/cicd-basics.md) | Khái niệm CI/CD, pipeline, chiến lược deploy, bảo mật, chạy tay (`workflow_dispatch`) |
+| [cicd-tools-and-costs.md](docs/04-cicd/cicd-tools-and-costs.md) | So sánh GitHub Actions, GitLab, CircleCI, Cloudflare, Jenkins...; chi phí và cách chọn |
+
 ## Quy ước chung
 
 - Mọi lệnh có phần **Windows (PowerShell)** và **macOS (zsh)** riêng.
