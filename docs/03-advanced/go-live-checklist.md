@@ -11,6 +11,8 @@ Cập nhật lần cuối: 2026-11-14
 - [ ] Giới hạn tần suất (rate limit) cho API đăng nhập/gửi mail
 - [ ] 2FA cho GitHub, Cloudflare, Google Cloud, Supabase/Firebase, registrar
 
+- [ ] Đã quét bảo mật chạy tay trước release ([security-scanning.md](../05-security/security-scanning.md)) và rà [security-basics.md](../05-security/security-basics.md)
+
 ## Vận hành
 - [ ] Sao lưu DB (Supabase: kiểm tra chính sách backup của gói đang dùng; tự `pg_dump` nếu cần)
 - [ ] Đặt cảnh báo chi phí (Google Cloud budget alert, nhất là khi dùng Firebase Blaze)

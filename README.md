@@ -50,6 +50,12 @@ Cài môi trường  →  Code local  →  Container hóa  →  Backend/DB/Auth 
 | [cicd-basics.md](docs/04-cicd/cicd-basics.md) | Khái niệm CI/CD, pipeline, chiến lược deploy, bảo mật, chạy tay (`workflow_dispatch`) |
 | [cicd-tools-and-costs.md](docs/04-cicd/cicd-tools-and-costs.md) | So sánh GitHub Actions, GitLab, CircleCI, Cloudflare, Jenkins...; chi phí và cách chọn |
 
+### 05 – Bảo mật
+| Tài liệu | Nội dung |
+|---|---|
+| [security-basics.md](docs/05-security/security-basics.md) | OWASP Top 10:2025, xác thực, dữ liệu, header, hạ tầng, xử lý sự cố, checklist 10 điểm |
+| [security-scanning.md](docs/05-security/security-scanning.md) | Quét secret/SCA/SAST/DAST/container, lệnh chạy tay, dịch vụ GitHub/Snyk/Cloudflare và chi phí |
+
 ## Quy ước chung
 
 - Mọi lệnh có phần **Windows (PowerShell)** và **macOS (zsh)** riêng.
